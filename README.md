@@ -17,7 +17,7 @@ There are some rules that need to be addressed first before executing it.
 1. Cointegration
 2. Stationary
 
-## Adressing the rules
+## Addressing the rules
 
 ### Cointegration
 
